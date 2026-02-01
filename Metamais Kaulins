@@ -1,0 +1,21 @@
+Spēles apraksts:
+
+Kad spēlētājs nospied uz kauliņu, viņam tiek piešķirts punktu skaits, kas vienāds ar uzmesto skaitli.
+Punkti tiek anulēti, veicot jaunu spiedienu.
+
+Prasību specifikācija:
+
+Funkcionāie:
+spēlētājs spied uz kauliņu
+spēlētājs iegūst punktus
+
+Nefunkcionālie:
+
+Valoda
+Drošība 
+Ātrums 
+
+Testpiemēra kopa:
+Pēc spiešanas kauļiņš griežās
+Iedots pareizs punktu skaits
+Punkti tiek anulēti pēc spiešanas uz kauliņu.
